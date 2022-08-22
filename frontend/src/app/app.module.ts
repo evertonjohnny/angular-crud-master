@@ -78,4 +78,5 @@ registerLocaleData(localePt);
   }],
   bootstrap: [AppComponent]
 })
+
 export class AppModule { }
